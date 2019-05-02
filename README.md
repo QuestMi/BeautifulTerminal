@@ -17,7 +17,7 @@ My terminal is so cool!
 - [colorls](https://github.com/athityakumar/colorls)
 - [fzf](https://github.com/junegunn/fzf)
 
-## Install 
+## 脚本安装
 
 ```shell
 git clone https://github.com/wangshub/dotfile.git
