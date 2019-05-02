@@ -1,6 +1,6 @@
 # Lin_terminal
 
-My terminal is so cool!
+terminal is so cool!
 
 ![image-20190503005709954](image-20190503005709954.png)
 
