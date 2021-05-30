@@ -22,7 +22,7 @@ terminal is so cool!
 ```shell
 git clone https://github.com/wangshub/dotfile.git
 
-cd lin_terminal
+cd BeautifulTerminal
 
 ./install.sh
 ```
