@@ -1,10 +1,10 @@
-# Lin_terminal
+# BeautifulTerminal 
 
 terminal is so cool!
 
 ![image-20190503005709954](image-20190503005709954.png)
 
-## 需要安装的各种包
+## 相关依赖包
 
 - [iterm2](https://www.iterm2.com/)
 - [zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
